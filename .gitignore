@@ -1,0 +1,29 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.lib
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# Data files (since they're large and can be downloaded separately)
+data/*.ubyte 
