@@ -76,4 +76,4 @@ cmake --build .
 The neural network achieves approximately 95-97% accuracy on the MNIST test set after training for 10 epochs.
 
 ## License
-This project was made by Youssef Smei and Adam Boufeid for his end of year project in ENSIT
+This project was made by Youssef Smei and Adam Boufeid for their end of year project in ENSIT
